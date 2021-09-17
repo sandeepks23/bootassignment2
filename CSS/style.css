@@ -4,13 +4,25 @@ body{
 
 .div1{
     background-color: #2f2f2f;
-    height: 70px;
+  
+
 }
 
 .div2{
     background-color: #f1f1f1;
-    height: 280px;
+    
 }
+
+.navbar-light .navbar-nav .nav-link {
+    color: white;
+    font-size: 15px;
+   
+}
+
+.mar1{
+    margin-left: 20px;
+}
+
 
 .head1{
     padding: 25px 10px;
@@ -32,7 +44,8 @@ body{
 .img1{
     padding: 25px 20px;
     height: 280px;
-    width: 422px;
+    width: 58%;
+    
 }
 
 .head2{
@@ -47,7 +60,7 @@ body{
 
 .div3{
     margin-top: -25px;
-    height: 470px;
+    
 }
 
 .head3{
@@ -57,10 +70,11 @@ body{
 
 .btn2{
     margin-left: 0px;
+    margin-bottom: 25px;
 }
 
 .f1{
-    height:280px;
+    
     background-color: #2f2f2f;
     color: white;
     
@@ -85,11 +99,12 @@ body{
 }
 
 .head6{
-    padding: 20px 65px;
+    
+    padding-top: 20px;
 }
 
 .p3{
-    padding-left: 65px;
+   
     padding-right: 10px;
 }
 
@@ -114,3 +129,10 @@ body{
     color: white;
     
 }
+
+.img3{
+    margin-left: 260px;
+}
+
+
+
